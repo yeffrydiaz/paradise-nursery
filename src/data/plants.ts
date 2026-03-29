@@ -6,7 +6,7 @@ export const plants: Plant[] = [
     name: 'Lavender',
     description: 'A fragrant plant known for its calming properties.',
     cost: 12.99,
-    image: 'https://images.unsplash.com/photo-1595841696677-6489ff3f8cd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1468327768560-75b778cbb551?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     category: 'Aromatic Plants',
   },
   {
@@ -22,7 +22,7 @@ export const plants: Plant[] = [
     name: 'Mint',
     description: 'A refreshing herb that spreads quickly.',
     cost: 7.99,
-    image: 'https://images.unsplash.com/photo-1628556281510-18981f44c803?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     category: 'Aromatic Plants',
   },
   {
@@ -38,7 +38,7 @@ export const plants: Plant[] = [
     name: 'Echinacea',
     description: 'A beautiful flower often used to boost the immune system.',
     cost: 11.99,
-    image: 'https://images.unsplash.com/photo-1601306385310-72412803b984?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1550895030-823330fc2551?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     category: 'Medicinal Plants',
   },
   {
@@ -46,7 +46,7 @@ export const plants: Plant[] = [
     name: 'Chamomile',
     description: 'A daisy-like plant used to make calming tea.',
     cost: 8.99,
-    image: 'https://images.unsplash.com/photo-1599598425947-33002629390b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1606041008023-472dfb5e530f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     category: 'Medicinal Plants',
   },
   {
@@ -54,7 +54,7 @@ export const plants: Plant[] = [
     name: 'Snake Plant',
     description: 'A hardy plant that purifies the air at night.',
     cost: 19.99,
-    image: 'https://images.unsplash.com/photo-1593482892290-f54927ae1b7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1497250681960-ef046c08a56e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     category: 'Air Purifying Plants',
   },
   {
