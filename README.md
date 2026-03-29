@@ -1,11 +1,26 @@
-<div align="center">
+# Paradise Nursery - e-plantShopping
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A shopping cart application for an online plant shop which offers a variety of house plants.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- Landing page with a button linking to the product listing page
+- Navigation bar with links to the landing, product listing, and shopping cart pages
+- Product listing page with cards for each plant (image, name, description, cost, Add to cart button)
+- Plants categorized into sections (e.g., "Aromatic Plants", "Medicinal Plants", "Air Purifying Plants")
+- Cart page displaying products in the cart
+- Cart item cards with thumbnail, unit cost, total cost for the item, increase/decrease quantity buttons, and a Delete button
+- Continue Shopping and Checkout buttons
+- Dynamic cart quantity in the navbar icon
+- Dynamic total cost updates when item quantity changes
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Technologies Used
+- React
+- Redux Toolkit
+- React Router
+- Tailwind CSS
+- Vite
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Setup
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev` to start the development server

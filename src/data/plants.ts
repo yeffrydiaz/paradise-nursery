@@ -1,0 +1,68 @@
+import { Plant } from '../store/CartSlice';
+
+export const plants: Plant[] = [
+  {
+    id: '1',
+    name: 'Lavender',
+    description: 'A fragrant plant known for its calming properties.',
+    cost: 12.99,
+    image: 'https://images.unsplash.com/photo-1595841696677-6489ff3f8cd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Aromatic Plants',
+  },
+  {
+    id: '2',
+    name: 'Rosemary',
+    description: 'An aromatic herb commonly used in cooking.',
+    cost: 9.99,
+    image: 'https://images.unsplash.com/photo-1594313016519-640ed47407ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Aromatic Plants',
+  },
+  {
+    id: '3',
+    name: 'Mint',
+    description: 'A refreshing herb that spreads quickly.',
+    cost: 7.99,
+    image: 'https://images.unsplash.com/photo-1628556281510-18981f44c803?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Aromatic Plants',
+  },
+  {
+    id: '4',
+    name: 'Aloe Vera',
+    description: 'A succulent plant with soothing gel inside its leaves.',
+    cost: 14.99,
+    image: 'https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Medicinal Plants',
+  },
+  {
+    id: '5',
+    name: 'Echinacea',
+    description: 'A beautiful flower often used to boost the immune system.',
+    cost: 11.99,
+    image: 'https://images.unsplash.com/photo-1601306385310-72412803b984?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Medicinal Plants',
+  },
+  {
+    id: '6',
+    name: 'Chamomile',
+    description: 'A daisy-like plant used to make calming tea.',
+    cost: 8.99,
+    image: 'https://images.unsplash.com/photo-1599598425947-33002629390b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Medicinal Plants',
+  },
+  {
+    id: '7',
+    name: 'Snake Plant',
+    description: 'A hardy plant that purifies the air at night.',
+    cost: 19.99,
+    image: 'https://images.unsplash.com/photo-1593482892290-f54927ae1b7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Air Purifying Plants',
+  },
+  {
+    id: '8',
+    name: 'Spider Plant',
+    description: 'An easy-to-grow plant that produces "spiderettes".',
+    cost: 15.99,
+    image: 'https://images.unsplash.com/photo-1614594975525-e45190c55d0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    category: 'Air Purifying Plants',
+  },
+];
